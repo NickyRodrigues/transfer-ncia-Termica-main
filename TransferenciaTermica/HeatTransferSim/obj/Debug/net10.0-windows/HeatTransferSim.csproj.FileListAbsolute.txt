@@ -1,0 +1,42 @@
+C:\Users\lf380\Documents\TransferenciaTermica-main\HeatTransferSim\bin\Debug\net10.0-windows\HeatTransferSim.exe
+C:\Users\lf380\Documents\TransferenciaTermica-main\HeatTransferSim\bin\Debug\net10.0-windows\HeatTransferSim.deps.json
+C:\Users\lf380\Documents\TransferenciaTermica-main\HeatTransferSim\bin\Debug\net10.0-windows\HeatTransferSim.runtimeconfig.json
+C:\Users\lf380\Documents\TransferenciaTermica-main\HeatTransferSim\bin\Debug\net10.0-windows\HeatTransferSim.dll
+C:\Users\lf380\Documents\TransferenciaTermica-main\HeatTransferSim\bin\Debug\net10.0-windows\HeatTransferSim.pdb
+C:\Users\lf380\Documents\TransferenciaTermica-main\HeatTransferSim\obj\Debug\net10.0-windows\HeatTransferSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lf380\Documents\TransferenciaTermica-main\HeatTransferSim\obj\Debug\net10.0-windows\HeatTransferSim.AssemblyInfoInputs.cache
+C:\Users\lf380\Documents\TransferenciaTermica-main\HeatTransferSim\obj\Debug\net10.0-windows\HeatTransferSim.AssemblyInfo.cs
+C:\Users\lf380\Documents\TransferenciaTermica-main\HeatTransferSim\obj\Debug\net10.0-windows\HeatTransferSim.csproj.CoreCompileInputs.cache
+C:\Users\lf380\Documents\TransferenciaTermica-main\HeatTransferSim\obj\Debug\net10.0-windows\HeatTransferSim.dll
+C:\Users\lf380\Documents\TransferenciaTermica-main\HeatTransferSim\obj\Debug\net10.0-windows\refint\HeatTransferSim.dll
+C:\Users\lf380\Documents\TransferenciaTermica-main\HeatTransferSim\obj\Debug\net10.0-windows\HeatTransferSim.pdb
+C:\Users\lf380\Documents\TransferenciaTermica-main\HeatTransferSim\obj\Debug\net10.0-windows\HeatTransferSim.genruntimeconfig.cache
+C:\Users\lf380\Documents\TransferenciaTermica-main\HeatTransferSim\obj\Debug\net10.0-windows\ref\HeatTransferSim.dll
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\bin\Debug\net10.0-windows\HeatTransferSim.exe
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\bin\Debug\net10.0-windows\HeatTransferSim.deps.json
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\bin\Debug\net10.0-windows\HeatTransferSim.runtimeconfig.json
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\bin\Debug\net10.0-windows\HeatTransferSim.dll
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\bin\Debug\net10.0-windows\HeatTransferSim.pdb
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\bin\Debug\net10.0-windows\Google.Protobuf.dll
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\bin\Debug\net10.0-windows\MySql.Data.dll
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\bin\Debug\net10.0-windows\ZstdSharp.dll
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\obj\Debug\net10.0-windows\HeatTransferSim.csproj.AssemblyReference.cache
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\obj\Debug\net10.0-windows\HeatTransferSim.GeneratedMSBuildEditorConfig.editorconfig
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\obj\Debug\net10.0-windows\HeatTransferSim.AssemblyInfoInputs.cache
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\obj\Debug\net10.0-windows\HeatTransferSim.AssemblyInfo.cs
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\obj\Debug\net10.0-windows\HeatTransferSim.csproj.CoreCompileInputs.cache
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\obj\Debug\net10.0-windows\HeatTran.8DF7B416.Up2Date
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\obj\Debug\net10.0-windows\HeatTransferSim.dll
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\obj\Debug\net10.0-windows\refint\HeatTransferSim.dll
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\obj\Debug\net10.0-windows\HeatTransferSim.pdb
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\obj\Debug\net10.0-windows\HeatTransferSim.genruntimeconfig.cache
+H:\04 Negocios e Projetos\Faculdade\transfer-ncia-Termica-main\TransferenciaTermica\HeatTransferSim\obj\Debug\net10.0-windows\ref\HeatTransferSim.dll
